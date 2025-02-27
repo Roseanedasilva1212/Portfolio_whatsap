@@ -25,7 +25,6 @@ Tecnologias utilizadas: HTML, CSS, JavaScript
 Se você quiser saber mais sobre mim ou sobre meus projetos, entre em contato!
 
 - Email: roseane.1212@hotmail.com
--Github: https://lnkd.in/dX8tdTaF
 - LinkedIn: https://lnkd.in/dVRbjJuh
 - https://www.instagram.com/rose.codesweb/
 -https://roseanedasilva1212.github.io/Portfolio_whatsap/
