@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio </title>
+</head>
+<body>
+    <div class="particulas"></div>
+    <nav class="navegacao">
+         <ul class="menu">
+            <li>
+                <a href="#inicio" class="menu-link">Inicio</a>
+            </li>
+            <li>
+                <a href="#sobre" class="menu-link">Sobre</a>
+            </li>
+            <li>
+                <a href="#projetos" class="menu-link" >Projetos</a>
+            </li>
+            <li>
+                <a href="#contatos"class="menu-link" >Contatos</a>
+            </li>
+         </ul>
+    </nav>
+
+    <main id="inicio" class="cabecalho">
+        
+            <img src="rose.png" alt="foto da Roseane" class="foto-perfil">
+            <h1>Roseane da Silva</h1>
+            <p class="cabecalho-sub-titulo">Desenvolvedor Front End</p>
+
+    </main>
+
+    <section id="sobre" class="sobre">
+        <h2 class="sobre-titulo">Sobre Mim</h2>
+        <div class="sobre-caixa">
+            <p class="sobre-paragrafo">
+                Olá! Sou uma desenvolvedora front-end apaixonada por tecnologia,
+                 estudante do 4° de análise e desenvolvimento de sistemas.
+            </p>
+        </div>
+
+    </section>
+
+    <section id="projetos" class="projetos">
+        <h2 class="projetos-titulo">Meus Projetos</h2>
+        <div class="projetos-caixa">
+            <div class="projetos-card">
+                <img src="projeto1.png" alt="Projeto 1" class="Projetos-imagem">
+                <div class="caixa-textos-projeto">
+                    <h3 class="info-projetos">Página de jogo
+                    </h3>
+                    <p class="paragarfo-projetos">Página do jogo leagues of legends
+                   </p>
+
+                </div>
+               
+             </div>
+
+            <div class="projetos-card">
+                <img src="projeto2.png" alt="Projeto 1" class="Projetos-imagem">
+                <div class="caixa-textos-projeto">
+                <h3 class="info-projetos">Página de login com o tema vingadores</h3>
+                <p class="paragarfo-projetos">Página de login</p>
+                </div>
+
+            </div>
+
+            <div class="projetos-card">
+                <img src="projeto3.png" alt="Projeto 1" class="Projetos-imagem">
+                <div class="caixa-textos-projeto">
+                <h3 class="info-projetos">Página de jogo</h3>
+                <p class="paragarfo-projetos">Página do jogo fortnite</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="contatos" class="contatos">
+        <h2 class="contatos-titulo">Entre em Contato</h2>
+
+       <form class="formulario-contato " id="formulario">
+        <div class="grupo-form">
+            <input placeholder="Nome" class="campo-form" id="nome">
+        </div>
+
+      <div class="grupo-form">
+        <textarea class="campo-form" placeholder="Digite sua Mensagem"  rows="4" id="mensagem"></textarea>
+      </div>
+
+       <button type="submit" class="botao-form">Enviar Whatsapp</button>
+       </form>
+
+    </section>
+
+    <script>
+        const nome= document.getElementById('nome');
+        const mensagem = document.getElementById('mensagem');
+        const telefone = '5511986500469';
+
+        const texto ='Olá ! Me chamo ${nome}, ${mensagem}'
+        const msgFormatada = encodeURIComponent(texto)
+
+        const url = 'https://whatsa.me/${5511986500469}'
+
+        window.open(url, '_blank')
+    </script>
+    
+</body>
+</html>
