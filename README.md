@@ -26,8 +26,9 @@ Se você quiser saber mais sobre mim ou sobre meus projetos, entre em contato!
 
 - Email: roseane.1212@hotmail.com
 - LinkedIn: https://lnkd.in/dVRbjJuh
-- https://www.instagram.com/rose.codesweb/
--https://roseanedasilva1212.github.io/Portfolio_whatsap/
+- Instagram: https://www.instagram.com/rose.codesweb/
+- Link do projeto do portfólio: https://roseanedasilva1212.github.io/Portfolio_whatsap/
+- Youtube: https://www.youtube.com/@Rose.codesweb
 
 https://github.com/user-attachments/assets/2fd75fa1-7bb7-499f-8aa5-affa18df2e5f
 
