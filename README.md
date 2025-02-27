@@ -28,7 +28,7 @@ Se você quiser saber mais sobre mim ou sobre meus projetos, entre em contato!
 -Github: https://lnkd.in/dX8tdTaF
 - LinkedIn: https://lnkd.in/dVRbjJuh
 - https://www.instagram.com/rose.codesweb/
-
+-https://roseanedasilva1212.github.io/Portfolio_whatsap/
 
 https://github.com/user-attachments/assets/2fd75fa1-7bb7-499f-8aa5-affa18df2e5f
 
