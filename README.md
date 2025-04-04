@@ -20,7 +20,16 @@ Tecnologias utilizadas: HTML, CSS, JavaScript
 Descrição: Bem-vindo ao repositório do projeto da página web sobre o jogo Fortnite! Este projeto foi desenvolvido utilizando HTML e CSS para criar uma interface visual atrativa e responsiva.
 Tecnologias utilizadas: HTML, CSS, JavaScript
 
-## Foto do projeto
+## Fotos do projeto
+
+![Captura de tela 2025-04-04 142538](https://github.com/user-attachments/assets/d65f0c1d-1517-4654-b72d-9a4acb0e7e60)
+![Captura de tela 2025-04-04 142549](https://github.com/user-attachments/assets/4f7e41b6-2ddd-47f9-a396-e3865fc3d3db)
+![Captura de tela 2025-04-04 142638](https://github.com/user-attachments/assets/e111c135-4389-47d7-bfcc-7b98b34c6070)
+![Captura de tela 2025-04-04 142647](https://github.com/user-attachments/assets/85c2b738-c825-4535-bdb4-5da4d0fc0fe1)
+
+
+
+
 
 
 
