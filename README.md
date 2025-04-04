@@ -20,15 +20,8 @@ Tecnologias utilizadas: HTML, CSS, JavaScript
 Descrição: Bem-vindo ao repositório do projeto da página web sobre o jogo Fortnite! Este projeto foi desenvolvido utilizando HTML e CSS para criar uma interface visual atrativa e responsiva.
 Tecnologias utilizadas: HTML, CSS, JavaScript
 
-## Contato
+## Foto do projeto
 
-Se você quiser saber mais sobre mim ou sobre meus projetos, entre em contato!
 
-- Email: roseane.1212@hotmail.com
-- LinkedIn: https://lnkd.in/dVRbjJuh
-- Instagram: https://www.instagram.com/rose.codesweb/
-- Link do projeto do portfólio: https://roseanedasilva1212.github.io/Portfolio_whatsap/
-- Youtube: https://www.youtube.com/@Rose.codesweb
 
-https://github.com/user-attachments/assets/2fd75fa1-7bb7-499f-8aa5-affa18df2e5f
 
